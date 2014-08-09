@@ -1,0 +1,83 @@
+/*
+Theme Name: Quincyg13
+Theme URI: http://quincyg13.com
+Author: Gilberth Santos
+Author URI: http://quincyg13.com
+Description: The 2013 theme for WordPress takes us back to the blog, featuring a full range of post formats, each displayed beautifully in their own unique way. Design details abound, starting with a vibrant color scheme and matching header images, beautiful typography and icons, and a flexible layout that looks great on any device, big or small.
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: black, brown, orange, tan, white, yellow, light, one-column, two-columns, right-sidebar, flexible-width, custom-header, custom-menu, editor-style, featured-images, microformats, post-formats, rtl-language-support, sticky-post, translation-ready
+Text Domain: twentythirteen
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+.colorb{
+	background: #E5E5E5;
+	padding-top: 20px;
+
+}
+#footer{
+	background: #44414A;
+}
+.contenedor{
+	background: #ffffff;
+	padding-top: 20px;
+}
+#header{
+	background-color: #59a6bc;
+}
+#MainBox {
+	background-color: #ffffff;
+	margin-left: auto;
+	margin-right: auto;
+	-webkit-box-shadow: 0px 0px 5px 2px rgba(0, 0, 0, 0.25);
+	-moz-box-shadow: 0px 0px 5px 2px rgba(0, 0, 0, 0.25);
+	box-shadow: 0px 0px 5px 2px rgba(0, 0, 0, 0.25);
+	
+}
+/*#main-header{
+	position: fixed;
+	top: 0;
+	width: 100%;
+	background-color: #fff;
+	z-index: 99;
+	background-color: rgb(255, 255, 255);
+	background-color: rgba(255, 255, 255, 0.95);
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(starColorstr=#1000000, endColorstr=#11000000)";
+	-moz-box-shadow: 0 1px 5px #999;
+	-webkit-box-shadow: 0 1px 5px #999;
+	box-shadow: 0 1px 5px #999;
+}*/
+#main-menu {
+	float: right;
+	margin-top: 300px;
+}
+#main-menu a {
+	color #aaa;
+}
+#main-menu a:hover{
+	color: #a3d900;
+}
+#main-menu.nav-pills>li.active>a,
+#main-menu.nav-pills>li.active>a:hover,
+#main-menu.nav-pills>li.active>a:focus.
+#main-menu.nav-pills>li>a:hover{
+	background: none;
+}
+#main-logo{
+	padding: 15px;
+    padding-top: 15px;
+    padding-right-value: 15px;
+    padding-bottom: 15px;
+    padding-left-value: 15px;
+    padding-left-ltr-source: physical;
+    padding-left-rtl-source: physical;
+    padding-right-ltr-source: physical;
+    padding-right-rtl-source: physical;
+overflow: hidden;
+    overflow-x: hidden;
+    overflow-y: hidden;
+height: 90px;
+}
